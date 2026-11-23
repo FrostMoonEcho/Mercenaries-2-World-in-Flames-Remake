@@ -4,7 +4,7 @@
   "wikidata": "Q1300159",
   "system": "PS3, Xbox 360",
   "type": "recomp",
-  "original": { "region": "Europe", "revision": "1.3", "serial": "BLES00323" },
+  "original": { "region": "Europe", "revision": "1.0", "serial": "BLES00323" },
   "project": "Mercenaries 2: World in Flames Collector's Remake",
   "status": "in-progress",
   "targets": ["Windows", "Linux"],
